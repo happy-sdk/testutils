@@ -1,5 +1,5 @@
 // Deprecated: Use github.com/happy-sdk/happy-go/devel/testutils instead.
-module github.com/happy-sdk/cron
+module github.com/happy-sdk/testutils
 
 go 1.21.5
 
